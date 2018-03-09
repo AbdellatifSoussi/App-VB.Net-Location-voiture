@@ -1,0 +1,282 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{3F27EB58-821E-4241-B5FF-0AE3C6996734}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>LASTCHANCE.My.MyApplication</StartupObject>
+    <RootNamespace>LASTCHANCE</RootNamespace>
+    <AssemblyName>LASTCHANCE</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publier\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>LASTCHANCE.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>LASTCHANCE.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>cabriolet-voiture-rouge-icone-9411.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="MySql.Data, Version=6.9.8.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ApplicationEvents.vb" />
+    <Compile Include="CatalogueVoitures.Designer.vb">
+      <DependentUpon>CatalogueVoitures.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CatalogueVoitures.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CautionMAJ.Designer.vb">
+      <DependentUpon>CautionMAJ.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CautionMAJ.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ClientMAJ.Designer.vb">
+      <DependentUpon>ClientMAJ.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ClientMAJ.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Acceuil.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Acceuil.Designer.vb">
+      <DependentUpon>Acceuil.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ContratMAJ.Designer.vb">
+      <DependentUpon>ContratMAJ.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ContratMAJ.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FactureMAJ.Designer.vb">
+      <DependentUpon>FactureMAJ.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FactureMAJ.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="viewcontrat.Designer.vb">
+      <DependentUpon>viewcontrat.vb</DependentUpon>
+    </Compile>
+    <Compile Include="viewcontrat.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Voitures-Petite.Designer.vb">
+      <DependentUpon>Voitures-Petite.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Voitures-Petite.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Module1.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="ReservationMAJ.Designer.vb">
+      <DependentUpon>ReservationMAJ.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ReservationMAJ.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Voiture-4x4.Designer.vb">
+      <DependentUpon>Voiture-4x4.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Voiture-4x4.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Voiture-Luxe.Designer.vb">
+      <DependentUpon>Voiture-Luxe.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Voiture-Luxe.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Voiture-Moyenne.Designer.vb">
+      <DependentUpon>Voiture-Moyenne.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Voiture-Moyenne.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VoituresMAJ.Designer.vb">
+      <DependentUpon>VoituresMAJ.vb</DependentUpon>
+    </Compile>
+    <Compile Include="VoituresMAJ.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="CatalogueVoitures.resx">
+      <DependentUpon>CatalogueVoitures.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CautionMAJ.resx">
+      <DependentUpon>CautionMAJ.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ClientMAJ.resx">
+      <DependentUpon>ClientMAJ.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Acceuil.resx">
+      <DependentUpon>Acceuil.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ContratMAJ.resx">
+      <DependentUpon>ContratMAJ.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FactureMAJ.resx">
+      <DependentUpon>FactureMAJ.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="viewcontrat.resx">
+      <DependentUpon>viewcontrat.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Voitures-Petite.resx">
+      <DependentUpon>Voitures-Petite.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReservationMAJ.resx">
+      <DependentUpon>ReservationMAJ.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Voiture-4x4.resx">
+      <DependentUpon>Voiture-4x4.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Voiture-Luxe.resx">
+      <DependentUpon>Voiture-Luxe.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Voiture-Moyenne.resx">
+      <DependentUpon>Voiture-Moyenne.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VoituresMAJ.resx">
+      <DependentUpon>VoituresMAJ.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 et x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="cabriolet-voiture-rouge-icone-9411.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,211 @@
+c:\users\achraf\documents\visual studio 2012\Projects\LASTCHANCE\LASTCHANCE\bin\Debug\LASTCHANCE.exe.config
+C:\Users\Achraf\Desktop\LASTCHANCE\LASTCHANCE\bin\Debug\LASTCHANCE.exe.config
+C:\Users\Achraf\Desktop\LASTCHANCE\LASTCHANCE\bin\Debug\LASTCHANCE.exe
+C:\Users\Achraf\Desktop\LASTCHANCE\LASTCHANCE\bin\Debug\LASTCHANCE.pdb
+C:\Users\Achraf\Desktop\LASTCHANCE\LASTCHANCE\bin\Debug\LASTCHANCE.xml
+C:\Users\Achraf\Desktop\LASTCHANCE\LASTCHANCE\obj\Debug\LASTCHANCE.ClientMAJ.resources
+C:\Users\Achraf\Desktop\LASTCHANCE\LASTCHANCE\obj\Debug\LASTCHANCE.Form1.resources
+C:\Users\Achraf\Desktop\LASTCHANCE\LASTCHANCE\obj\Debug\LASTCHANCE.Resources.resources
+C:\Users\Achraf\Desktop\LASTCHANCE\LASTCHANCE\obj\Debug\LASTCHANCE.vbproj.GenerateResource.Cache
+C:\Users\Achraf\Desktop\LASTCHANCE\LASTCHANCE\obj\Debug\LASTCHANCE.exe
+C:\Users\Achraf\Desktop\LASTCHANCE\LASTCHANCE\obj\Debug\LASTCHANCE.xml
+C:\Users\Achraf\Desktop\LASTCHANCE\LASTCHANCE\obj\Debug\LASTCHANCE.pdb
+C:\Users\Achraf\Desktop\Projet VB\LASTCHANCE\LASTCHANCE\bin\Debug\LASTCHANCE.exe.config
+C:\Users\Achraf\Desktop\Projet VB\LASTCHANCE\LASTCHANCE\obj\Debug\LASTCHANCE.exe
+C:\Users\Achraf\Desktop\Projet VB\LASTCHANCE\LASTCHANCE\obj\Debug\LASTCHANCE.xml
+C:\Users\Achraf\Desktop\Projet VB\LASTCHANCE\LASTCHANCE\obj\Debug\LASTCHANCE.pdb
+C:\Users\Achraf\Desktop\Projet VB\LASTCHANCE\LASTCHANCE\bin\Debug\LASTCHANCE.exe
+C:\Users\Achraf\Desktop\Projet VB\LASTCHANCE\LASTCHANCE\bin\Debug\LASTCHANCE.pdb
+C:\Users\Achraf\Desktop\Projet VB\LASTCHANCE\LASTCHANCE\bin\Debug\LASTCHANCE.xml
+C:\Users\Achraf\Desktop\Projet VB\LASTCHANCE\LASTCHANCE\obj\Debug\LASTCHANCE.ClientMAJ.resources
+C:\Users\Achraf\Desktop\Projet VB\LASTCHANCE\LASTCHANCE\obj\Debug\LASTCHANCE.Resources.resources
+C:\Users\Achraf\Desktop\Projet VB\LASTCHANCE\LASTCHANCE\obj\Debug\LASTCHANCE.vbproj.GenerateResource.Cache
+C:\Users\Achraf\Desktop\Projet VB\LASTCHANCE\LASTCHANCE\obj\Debug\LASTCHANCE.VoituresMAJ.resources
+C:\Users\Achraf\Desktop\Projet VB\LASTCHANCE\LASTCHANCE\obj\Debug\LASTCHANCE.Acceuil.resources
+C:\Users\Achraf\Desktop\Projet VB\LASTCHANCE\LASTCHANCE\obj\Debug\LASTCHANCE.CautionMAJ.resources
+C:\Users\Achraf\Desktop\Projet VB\LASTCHANCE\LASTCHANCE\obj\Debug\LASTCHANCE.ReservationMAJ.resources
+C:\Users\Achraf\Desktop\Projet VB\LASTCHANCE\LASTCHANCE\obj\Debug\LASTCHANCE.FactureMAJ.resources
+C:\Users\Achraf\Desktop\Projet VB\LASTCHANCE\LASTCHANCE\obj\Debug\LASTCHANCE.ContratMAJ.resources
+C:\Users\Achraf\Desktop\Projet VB\LASTCHANCE\LASTCHANCE\obj\Debug\LASTCHANCE.CatalogueVoitures.resources
+C:\Users\Achraf\Desktop\Projet VB\LASTCHANCE\LASTCHANCE\obj\Debug\LASTCHANCE.Minis_Voitures.resources
+E:\Projet VB\LASTCHANCE\LASTCHANCE\bin\Debug\LASTCHANCE.exe.config
+E:\Projet VB\LASTCHANCE\LASTCHANCE\obj\Debug\LASTCHANCE.exe
+E:\Projet VB\LASTCHANCE\LASTCHANCE\obj\Debug\LASTCHANCE.xml
+E:\Projet VB\LASTCHANCE\LASTCHANCE\obj\Debug\LASTCHANCE.pdb
+E:\Projet VB\LASTCHANCE\LASTCHANCE\bin\Debug\LASTCHANCE.exe
+E:\Projet VB\LASTCHANCE\LASTCHANCE\bin\Debug\LASTCHANCE.pdb
+E:\Projet VB\LASTCHANCE\LASTCHANCE\bin\Debug\LASTCHANCE.xml
+E:\Projet VB\LASTCHANCE\LASTCHANCE\obj\Debug\LASTCHANCE.Authentification.resources
+E:\Projet VB\LASTCHANCE\LASTCHANCE\obj\Debug\LASTCHANCE.CatalogueVoitures.resources
+E:\Projet VB\LASTCHANCE\LASTCHANCE\obj\Debug\LASTCHANCE.CautionMAJ.resources
+E:\Projet VB\LASTCHANCE\LASTCHANCE\obj\Debug\LASTCHANCE.ClientMAJ.resources
+E:\Projet VB\LASTCHANCE\LASTCHANCE\obj\Debug\LASTCHANCE.Acceuil.resources
+E:\Projet VB\LASTCHANCE\LASTCHANCE\obj\Debug\LASTCHANCE.ContratMAJ.resources
+E:\Projet VB\LASTCHANCE\LASTCHANCE\obj\Debug\LASTCHANCE.FactureMAJ.resources
+E:\Projet VB\LASTCHANCE\LASTCHANCE\obj\Debug\LASTCHANCE.Minis_Voitures.resources
+E:\Projet VB\LASTCHANCE\LASTCHANCE\obj\Debug\LASTCHANCE.Resources.resources
+E:\Projet VB\LASTCHANCE\LASTCHANCE\obj\Debug\LASTCHANCE.ReservationMAJ.resources
+E:\Projet VB\LASTCHANCE\LASTCHANCE\obj\Debug\LASTCHANCE.VoituresMAJ.resources
+E:\Projet VB\LASTCHANCE\LASTCHANCE\obj\Debug\LASTCHANCE.vbproj.GenerateResource.Cache
+C:\Users\Efet\Desktop\Projet VB\LASTCHANCE\LASTCHANCE\bin\Debug\LASTCHANCE.exe.config
+C:\Users\Efet\Desktop\Projet VB\LASTCHANCE\LASTCHANCE\obj\Debug\LASTCHANCE.exe
+C:\Users\Efet\Desktop\Projet VB\LASTCHANCE\LASTCHANCE\obj\Debug\LASTCHANCE.xml
+C:\Users\Efet\Desktop\Projet VB\LASTCHANCE\LASTCHANCE\obj\Debug\LASTCHANCE.pdb
+C:\Users\Efet\Desktop\Projet VB\LASTCHANCE\LASTCHANCE\bin\Debug\LASTCHANCE.exe
+C:\Users\Efet\Desktop\Projet VB\LASTCHANCE\LASTCHANCE\bin\Debug\LASTCHANCE.pdb
+C:\Users\Efet\Desktop\Projet VB\LASTCHANCE\LASTCHANCE\bin\Debug\LASTCHANCE.xml
+C:\Users\Efet\Desktop\Projet VB\LASTCHANCE\LASTCHANCE\obj\Debug\LASTCHANCE.Authentification.resources
+C:\Users\Efet\Desktop\Projet VB\LASTCHANCE\LASTCHANCE\obj\Debug\LASTCHANCE.CatalogueVoitures.resources
+C:\Users\Efet\Desktop\Projet VB\LASTCHANCE\LASTCHANCE\obj\Debug\LASTCHANCE.CautionMAJ.resources
+C:\Users\Efet\Desktop\Projet VB\LASTCHANCE\LASTCHANCE\obj\Debug\LASTCHANCE.ClientMAJ.resources
+C:\Users\Efet\Desktop\Projet VB\LASTCHANCE\LASTCHANCE\obj\Debug\LASTCHANCE.Acceuil.resources
+C:\Users\Efet\Desktop\Projet VB\LASTCHANCE\LASTCHANCE\obj\Debug\LASTCHANCE.ContratMAJ.resources
+C:\Users\Efet\Desktop\Projet VB\LASTCHANCE\LASTCHANCE\obj\Debug\LASTCHANCE.FactureMAJ.resources
+C:\Users\Efet\Desktop\Projet VB\LASTCHANCE\LASTCHANCE\obj\Debug\LASTCHANCE.Minis_Voitures.resources
+C:\Users\Efet\Desktop\Projet VB\LASTCHANCE\LASTCHANCE\obj\Debug\LASTCHANCE.Resources.resources
+C:\Users\Efet\Desktop\Projet VB\LASTCHANCE\LASTCHANCE\obj\Debug\LASTCHANCE.ReservationMAJ.resources
+C:\Users\Efet\Desktop\Projet VB\LASTCHANCE\LASTCHANCE\obj\Debug\LASTCHANCE.VoituresMAJ.resources
+C:\Users\Efet\Desktop\Projet VB\LASTCHANCE\LASTCHANCE\obj\Debug\LASTCHANCE.vbproj.GenerateResource.Cache
+H:\Projet VB\LASTCHANCE\LASTCHANCE\bin\Debug\LASTCHANCE.exe.config
+H:\Projet VB\LASTCHANCE\LASTCHANCE\obj\Debug\LASTCHANCE.exe
+H:\Projet VB\LASTCHANCE\LASTCHANCE\obj\Debug\LASTCHANCE.xml
+H:\Projet VB\LASTCHANCE\LASTCHANCE\obj\Debug\LASTCHANCE.pdb
+C:\Users\Achraf\Desktop\Projet VB\LASTCHANCE\LASTCHANCE\obj\Debug\LASTCHANCE.Voiture_4x4.resources
+C:\Users\Achraf\Desktop\Projet VB\LASTCHANCE\LASTCHANCE\obj\Debug\LASTCHANCE.Voitures_Classiques.resources
+C:\Users\Achraf\Desktop\Projet VB\LASTCHANCE\LASTCHANCE\obj\Debug\LASTCHANCE.Voiture_Luxe.resources
+C:\Users\Achraf\Desktop\Projet VB\LASTCHANCE\LASTCHANCE\obj\Debug\LASTCHANCE.Voiture_Sport.resources
+C:\Users\Abdeel\Desktop\LASTCHANCE\LASTCHANCE\bin\Debug\LASTCHANCE.exe.config
+C:\Users\Abdeel\Desktop\LASTCHANCE\LASTCHANCE\obj\Debug\LASTCHANCE.exe
+C:\Users\Abdeel\Desktop\LASTCHANCE\LASTCHANCE\obj\Debug\LASTCHANCE.xml
+C:\Users\Abdeel\Desktop\LASTCHANCE\LASTCHANCE\obj\Debug\LASTCHANCE.pdb
+C:\Users\Abdeel\Desktop\LASTCHANCE\LASTCHANCE\bin\Debug\LASTCHANCE.exe
+C:\Users\Abdeel\Desktop\LASTCHANCE\LASTCHANCE\bin\Debug\LASTCHANCE.pdb
+C:\Users\Abdeel\Desktop\LASTCHANCE\LASTCHANCE\bin\Debug\LASTCHANCE.xml
+C:\Users\Abdeel\Desktop\LASTCHANCE\LASTCHANCE\obj\Debug\LASTCHANCE.CatalogueVoitures.resources
+C:\Users\Abdeel\Desktop\LASTCHANCE\LASTCHANCE\obj\Debug\LASTCHANCE.CautionMAJ.resources
+C:\Users\Abdeel\Desktop\LASTCHANCE\LASTCHANCE\obj\Debug\LASTCHANCE.ClientMAJ.resources
+C:\Users\Abdeel\Desktop\LASTCHANCE\LASTCHANCE\obj\Debug\LASTCHANCE.Acceuil.resources
+C:\Users\Abdeel\Desktop\LASTCHANCE\LASTCHANCE\obj\Debug\LASTCHANCE.ContratMAJ.resources
+C:\Users\Abdeel\Desktop\LASTCHANCE\LASTCHANCE\obj\Debug\LASTCHANCE.FactureMAJ.resources
+C:\Users\Abdeel\Desktop\LASTCHANCE\LASTCHANCE\obj\Debug\LASTCHANCE.Minis_Voitures.resources
+C:\Users\Abdeel\Desktop\LASTCHANCE\LASTCHANCE\obj\Debug\LASTCHANCE.Resources.resources
+C:\Users\Abdeel\Desktop\LASTCHANCE\LASTCHANCE\obj\Debug\LASTCHANCE.ReservationMAJ.resources
+C:\Users\Abdeel\Desktop\LASTCHANCE\LASTCHANCE\obj\Debug\LASTCHANCE.Voiture_4x4.resources
+C:\Users\Abdeel\Desktop\LASTCHANCE\LASTCHANCE\obj\Debug\LASTCHANCE.Voiture_Luxe.resources
+C:\Users\Abdeel\Desktop\LASTCHANCE\LASTCHANCE\obj\Debug\LASTCHANCE.VoituresMAJ.resources
+C:\Users\Abdeel\Desktop\LASTCHANCE\LASTCHANCE\obj\Debug\LASTCHANCE.vbproj.GenerateResource.Cache
+C:\Users\Achraf\Desktop\Projet\LASTCHANCE(2)\LASTCHANCE\bin\Debug\LASTCHANCE.exe.config
+C:\Users\Achraf\Desktop\Projet\LASTCHANCE(2)\LASTCHANCE\obj\Debug\LASTCHANCE.exe
+C:\Users\Achraf\Desktop\Projet\LASTCHANCE(2)\LASTCHANCE\obj\Debug\LASTCHANCE.xml
+C:\Users\Achraf\Desktop\Projet\LASTCHANCE(2)\LASTCHANCE\obj\Debug\LASTCHANCE.pdb
+C:\Users\Achraf\Desktop\Projet\LASTCHANCE(2)\LASTCHANCE\bin\Debug\LASTCHANCE.exe
+C:\Users\Achraf\Desktop\Projet\LASTCHANCE(2)\LASTCHANCE\bin\Debug\LASTCHANCE.pdb
+C:\Users\Achraf\Desktop\Projet\LASTCHANCE(2)\LASTCHANCE\bin\Debug\LASTCHANCE.xml
+C:\Users\Achraf\Desktop\Projet\LASTCHANCE(2)\LASTCHANCE\obj\Debug\LASTCHANCE.CatalogueVoitures.resources
+C:\Users\Achraf\Desktop\Projet\LASTCHANCE(2)\LASTCHANCE\obj\Debug\LASTCHANCE.CautionMAJ.resources
+C:\Users\Achraf\Desktop\Projet\LASTCHANCE(2)\LASTCHANCE\obj\Debug\LASTCHANCE.ClientMAJ.resources
+C:\Users\Achraf\Desktop\Projet\LASTCHANCE(2)\LASTCHANCE\obj\Debug\LASTCHANCE.Acceuil.resources
+C:\Users\Achraf\Desktop\Projet\LASTCHANCE(2)\LASTCHANCE\obj\Debug\LASTCHANCE.ContratMAJ.resources
+C:\Users\Achraf\Desktop\Projet\LASTCHANCE(2)\LASTCHANCE\obj\Debug\LASTCHANCE.FactureMAJ.resources
+C:\Users\Achraf\Desktop\Projet\LASTCHANCE(2)\LASTCHANCE\obj\Debug\LASTCHANCE.Minis_Voitures.resources
+C:\Users\Achraf\Desktop\Projet\LASTCHANCE(2)\LASTCHANCE\obj\Debug\LASTCHANCE.Resources.resources
+C:\Users\Achraf\Desktop\Projet\LASTCHANCE(2)\LASTCHANCE\obj\Debug\LASTCHANCE.ReservationMAJ.resources
+C:\Users\Achraf\Desktop\Projet\LASTCHANCE(2)\LASTCHANCE\obj\Debug\LASTCHANCE.Voiture_4x4.resources
+C:\Users\Achraf\Desktop\Projet\LASTCHANCE(2)\LASTCHANCE\obj\Debug\LASTCHANCE.Voiture_Luxe.resources
+C:\Users\Achraf\Desktop\Projet\LASTCHANCE(2)\LASTCHANCE\obj\Debug\LASTCHANCE.VoituresMAJ.resources
+C:\Users\Achraf\Desktop\Projet\LASTCHANCE(2)\LASTCHANCE\obj\Debug\LASTCHANCE.vbproj.GenerateResource.Cache
+F:\Projet\LASTCHANCE(2)\LASTCHANCE\bin\Debug\LASTCHANCE.exe.config
+F:\Projet\LASTCHANCE(2)\LASTCHANCE\obj\Debug\LASTCHANCE.exe
+F:\Projet\LASTCHANCE(2)\LASTCHANCE\obj\Debug\LASTCHANCE.xml
+F:\Projet\LASTCHANCE(2)\LASTCHANCE\obj\Debug\LASTCHANCE.pdb
+F:\Projet\LASTCHANCE(2)\LASTCHANCE\obj\Debug\LASTCHANCE.CatalogueVoitures.resources
+F:\Projet\LASTCHANCE(2)\LASTCHANCE\obj\Debug\LASTCHANCE.CautionMAJ.resources
+F:\Projet\LASTCHANCE(2)\LASTCHANCE\obj\Debug\LASTCHANCE.ClientMAJ.resources
+F:\Projet\LASTCHANCE(2)\LASTCHANCE\obj\Debug\LASTCHANCE.Acceuil.resources
+F:\Projet\LASTCHANCE(2)\LASTCHANCE\obj\Debug\LASTCHANCE.ContratMAJ.resources
+F:\Projet\LASTCHANCE(2)\LASTCHANCE\obj\Debug\LASTCHANCE.FactureMAJ.resources
+F:\Projet\LASTCHANCE(2)\LASTCHANCE\obj\Debug\LASTCHANCE.Minis_Voitures.resources
+F:\Projet\LASTCHANCE(2)\LASTCHANCE\obj\Debug\LASTCHANCE.Resources.resources
+F:\Projet\LASTCHANCE(2)\LASTCHANCE\obj\Debug\LASTCHANCE.ReservationMAJ.resources
+F:\Projet\LASTCHANCE(2)\LASTCHANCE\obj\Debug\LASTCHANCE.Voiture_4x4.resources
+F:\Projet\LASTCHANCE(2)\LASTCHANCE\obj\Debug\LASTCHANCE.Voiture_Luxe.resources
+F:\Projet\LASTCHANCE(2)\LASTCHANCE\obj\Debug\LASTCHANCE.Voiture_Sport.resources
+F:\Projet\LASTCHANCE(2)\LASTCHANCE\obj\Debug\LASTCHANCE.Voitures_Classiques.resources
+F:\Projet\LASTCHANCE(2)\LASTCHANCE\obj\Debug\LASTCHANCE.VoituresMAJ.resources
+F:\Projet\LASTCHANCE(2)\LASTCHANCE\obj\Debug\LASTCHANCE.vbproj.GenerateResource.Cache
+H:\Projet\LASTCHANCE(2)\LASTCHANCE\bin\Debug\LASTCHANCE.exe.config
+H:\Projet\LASTCHANCE(2)\LASTCHANCE\obj\Debug\LASTCHANCE.exe
+H:\Projet\LASTCHANCE(2)\LASTCHANCE\obj\Debug\LASTCHANCE.xml
+H:\Projet\LASTCHANCE(2)\LASTCHANCE\obj\Debug\LASTCHANCE.pdb
+G:\Projet\LASTCHANCE(2)\LASTCHANCE\bin\Debug\LASTCHANCE.exe.config
+G:\Projet\LASTCHANCE(2)\LASTCHANCE\obj\Debug\LASTCHANCE.exe
+G:\Projet\LASTCHANCE(2)\LASTCHANCE\obj\Debug\LASTCHANCE.xml
+G:\Projet\LASTCHANCE(2)\LASTCHANCE\obj\Debug\LASTCHANCE.pdb
+G:\Projet\LASTCHANCE(2)\LASTCHANCE\bin\Debug\LASTCHANCE.exe
+G:\Projet\LASTCHANCE(2)\LASTCHANCE\bin\Debug\LASTCHANCE.pdb
+G:\Projet\LASTCHANCE(2)\LASTCHANCE\bin\Debug\LASTCHANCE.xml
+G:\Projet\LASTCHANCE(2)\LASTCHANCE\obj\Debug\LASTCHANCE.CatalogueVoitures.resources
+G:\Projet\LASTCHANCE(2)\LASTCHANCE\obj\Debug\LASTCHANCE.CautionMAJ.resources
+G:\Projet\LASTCHANCE(2)\LASTCHANCE\obj\Debug\LASTCHANCE.ClientMAJ.resources
+G:\Projet\LASTCHANCE(2)\LASTCHANCE\obj\Debug\LASTCHANCE.Acceuil.resources
+G:\Projet\LASTCHANCE(2)\LASTCHANCE\obj\Debug\LASTCHANCE.ContratMAJ.resources
+G:\Projet\LASTCHANCE(2)\LASTCHANCE\obj\Debug\LASTCHANCE.FactureMAJ.resources
+G:\Projet\LASTCHANCE(2)\LASTCHANCE\obj\Debug\LASTCHANCE.Minis_Voitures.resources
+G:\Projet\LASTCHANCE(2)\LASTCHANCE\obj\Debug\LASTCHANCE.Resources.resources
+G:\Projet\LASTCHANCE(2)\LASTCHANCE\obj\Debug\LASTCHANCE.ReservationMAJ.resources
+G:\Projet\LASTCHANCE(2)\LASTCHANCE\obj\Debug\LASTCHANCE.Voiture_4x4.resources
+G:\Projet\LASTCHANCE(2)\LASTCHANCE\obj\Debug\LASTCHANCE.Voiture_Luxe.resources
+G:\Projet\LASTCHANCE(2)\LASTCHANCE\obj\Debug\LASTCHANCE.VoituresMAJ.resources
+G:\Projet\LASTCHANCE(2)\LASTCHANCE\obj\Debug\LASTCHANCE.vbproj.GenerateResource.Cache
+C:\Users\Achraf\Desktop\Projet\LASTCHANCE(2)\LASTCHANCE\obj\Debug\LASTCHANCE.Voiture_Moyenne.resources
+C:\Users\Achraf\Desktop\Projet\LASTCHANCE(2)\LASTCHANCE\obj\Debug\LASTCHANCE.vbprojResolveAssemblyReference.cache
+C:\Users\Achraf\Desktop\Projet\LASTCHANCE(2)\LASTCHANCE\obj\Debug\LASTCHANCE.viewcontrat.resources
+G:\Projet\LASTCHANCE(2)\LASTCHANCE\obj\Debug\LASTCHANCE.vbprojResolveAssemblyReference.cache
+G:\Projet\LASTCHANCE(2)\LASTCHANCE\obj\Debug\LASTCHANCE.viewcontrat.resources
+G:\Projet\LASTCHANCE(2)\LASTCHANCE\obj\Debug\LASTCHANCE.Voiture_Moyenne.resources
+C:\Users\Abdeel\Desktop\LASTCHANCE(2)\LASTCHANCE\bin\Debug\LASTCHANCE.exe.config
+C:\Users\Abdeel\Desktop\LASTCHANCE(2)\LASTCHANCE\obj\Debug\LASTCHANCE.exe
+C:\Users\Abdeel\Desktop\LASTCHANCE(2)\LASTCHANCE\obj\Debug\LASTCHANCE.xml
+C:\Users\Abdeel\Desktop\LASTCHANCE(2)\LASTCHANCE\obj\Debug\LASTCHANCE.pdb
+C:\Users\Abdeel\Desktop\LASTCHANCE(2)\LASTCHANCE\bin\Debug\LASTCHANCE.exe
+C:\Users\Abdeel\Desktop\LASTCHANCE(2)\LASTCHANCE\bin\Debug\LASTCHANCE.pdb
+C:\Users\Abdeel\Desktop\LASTCHANCE(2)\LASTCHANCE\bin\Debug\LASTCHANCE.xml
+C:\Users\Abdeel\Desktop\LASTCHANCE(2)\LASTCHANCE\obj\Debug\LASTCHANCE.vbprojResolveAssemblyReference.cache
+C:\Users\Abdeel\Desktop\LASTCHANCE(2)\LASTCHANCE\obj\Debug\LASTCHANCE.CatalogueVoitures.resources
+C:\Users\Abdeel\Desktop\LASTCHANCE(2)\LASTCHANCE\obj\Debug\LASTCHANCE.CautionMAJ.resources
+C:\Users\Abdeel\Desktop\LASTCHANCE(2)\LASTCHANCE\obj\Debug\LASTCHANCE.ClientMAJ.resources
+C:\Users\Abdeel\Desktop\LASTCHANCE(2)\LASTCHANCE\obj\Debug\LASTCHANCE.Acceuil.resources
+C:\Users\Abdeel\Desktop\LASTCHANCE(2)\LASTCHANCE\obj\Debug\LASTCHANCE.ContratMAJ.resources
+C:\Users\Abdeel\Desktop\LASTCHANCE(2)\LASTCHANCE\obj\Debug\LASTCHANCE.FactureMAJ.resources
+C:\Users\Abdeel\Desktop\LASTCHANCE(2)\LASTCHANCE\obj\Debug\LASTCHANCE.viewcontrat.resources
+C:\Users\Abdeel\Desktop\LASTCHANCE(2)\LASTCHANCE\obj\Debug\LASTCHANCE.Minis_Voitures.resources
+C:\Users\Abdeel\Desktop\LASTCHANCE(2)\LASTCHANCE\obj\Debug\LASTCHANCE.Resources.resources
+C:\Users\Abdeel\Desktop\LASTCHANCE(2)\LASTCHANCE\obj\Debug\LASTCHANCE.ReservationMAJ.resources
+C:\Users\Abdeel\Desktop\LASTCHANCE(2)\LASTCHANCE\obj\Debug\LASTCHANCE.Voiture_4x4.resources
+C:\Users\Abdeel\Desktop\LASTCHANCE(2)\LASTCHANCE\obj\Debug\LASTCHANCE.Voiture_Luxe.resources
+C:\Users\Abdeel\Desktop\LASTCHANCE(2)\LASTCHANCE\obj\Debug\LASTCHANCE.Voiture_Moyenne.resources
+C:\Users\Abdeel\Desktop\LASTCHANCE(2)\LASTCHANCE\obj\Debug\LASTCHANCE.VoituresMAJ.resources
+C:\Users\Abdeel\Desktop\LASTCHANCE(2)\LASTCHANCE\obj\Debug\LASTCHANCE.vbproj.GenerateResource.Cache
+C:\Users\Abdeel\Desktop\LASTCHANCE\LASTCHANCE\obj\Debug\LASTCHANCE.vbprojResolveAssemblyReference.cache
+C:\Users\Abdeel\Desktop\LASTCHANCE\LASTCHANCE\obj\Debug\LASTCHANCE.viewcontrat.resources
+C:\Users\Abdeel\Desktop\LASTCHANCE\LASTCHANCE\obj\Debug\LASTCHANCE.Voiture_Moyenne.resources
+E:\Projet fin d'étude DI2\LASTCHANCE\LASTCHANCE\bin\Debug\LASTCHANCE.exe.config
+E:\Projet fin d'étude DI2\LASTCHANCE\LASTCHANCE\obj\Debug\LASTCHANCE.exe
+E:\Projet fin d'étude DI2\LASTCHANCE\LASTCHANCE\obj\Debug\LASTCHANCE.xml
+E:\Projet fin d'étude DI2\LASTCHANCE\LASTCHANCE\obj\Debug\LASTCHANCE.pdb
+E:\Projet fin d'étude DI2\LASTCHANCE\LASTCHANCE\obj\Debug\LASTCHANCE.vbprojResolveAssemblyReference.cache
+E:\Projet fin d'étude DI2\LASTCHANCE\LASTCHANCE\obj\Debug\LASTCHANCE.CatalogueVoitures.resources
+E:\Projet fin d'étude DI2\LASTCHANCE\LASTCHANCE\obj\Debug\LASTCHANCE.CautionMAJ.resources
+E:\Projet fin d'étude DI2\LASTCHANCE\LASTCHANCE\obj\Debug\LASTCHANCE.ClientMAJ.resources
+E:\Projet fin d'étude DI2\LASTCHANCE\LASTCHANCE\obj\Debug\LASTCHANCE.Acceuil.resources
+E:\Projet fin d'étude DI2\LASTCHANCE\LASTCHANCE\obj\Debug\LASTCHANCE.ContratMAJ.resources
+E:\Projet fin d'étude DI2\LASTCHANCE\LASTCHANCE\obj\Debug\LASTCHANCE.FactureMAJ.resources
+E:\Projet fin d'étude DI2\LASTCHANCE\LASTCHANCE\obj\Debug\LASTCHANCE.viewcontrat.resources
+E:\Projet fin d'étude DI2\LASTCHANCE\LASTCHANCE\obj\Debug\LASTCHANCE.Minis_Voitures.resources
+E:\Projet fin d'étude DI2\LASTCHANCE\LASTCHANCE\obj\Debug\LASTCHANCE.Resources.resources
+E:\Projet fin d'étude DI2\LASTCHANCE\LASTCHANCE\obj\Debug\LASTCHANCE.ReservationMAJ.resources
+E:\Projet fin d'étude DI2\LASTCHANCE\LASTCHANCE\obj\Debug\LASTCHANCE.Voiture_4x4.resources
+E:\Projet fin d'étude DI2\LASTCHANCE\LASTCHANCE\obj\Debug\LASTCHANCE.Voiture_Luxe.resources
+E:\Projet fin d'étude DI2\LASTCHANCE\LASTCHANCE\obj\Debug\LASTCHANCE.Voiture_Moyenne.resources
+E:\Projet fin d'étude DI2\LASTCHANCE\LASTCHANCE\obj\Debug\LASTCHANCE.VoituresMAJ.resources
+E:\Projet fin d'étude DI2\LASTCHANCE\LASTCHANCE\obj\Debug\LASTCHANCE.vbproj.GenerateResource.Cache
